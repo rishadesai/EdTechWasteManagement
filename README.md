@@ -11,8 +11,10 @@ To bring this content to life, I reimagined an outdated version of the site thro
 - Readability and scannability
 - Content chunking
 
+The site includes built-in light/dark mode toggling for accessibility and visual comfort, along with a top navigation bar that allows users to jump directly to key sections without endless scrolling. These design choices, paired with clean layout structure and clear visual hierarchy, make the site both easy on the eyes and highly efficient to navigate.
+
 Claude served as a collaborative writing partner, helping me transform technical content into clearer, more engaging language tailored for a wider audience interacting with the website. Once the content structure aligned with my design vision, I used Replit as a streamlined web-based IDE to implement, preview, and refine the layout. My focus throughout was on improving usability, enhancing user flow, and modernizing the overall experience for those engaging with the site’s research.
 
-To visit the website...use the simple-website.html file and go through your favorite browser. 
+To visit the website...please use the simple-website.html file and go through your favorite browser. 
 
 Enjoy!
