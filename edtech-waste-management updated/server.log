@@ -1,0 +1,64 @@
+::1 - - [06/Jul/2025 14:22:55] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 14:22:55] code 404, message File not found
+::1 - - [06/Jul/2025 14:22:55] "GET /wastedectector3photos.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 14:22:55] "GET /carbon-footprint-calculator.png HTTP/1.1" 404 -
+::1 - - [06/Jul/2025 14:22:55] code 404, message File not found
+::1 - - [06/Jul/2025 14:22:55] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [06/Jul/2025 14:26:35] "GET /simple-website.html HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 14:26:35] "GET /carbon-footprint-calculator.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 14:29:00] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 14:29:00] code 404, message File not found
+::1 - - [06/Jul/2025 14:29:00] "GET /ar-feedback-demo.png HTTP/1.1" 404 -
+::1 - - [06/Jul/2025 14:29:00] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 14:32:43] "GET /simple-website.html HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 14:32:43] "GET /ar-feedback-demo.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 14:32:43] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:00:44] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:00:44] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:00:44] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:00:44] "GET /waste-genie-results.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:06:30] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:06:30] "GET /chatgptcomparing.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:06:30] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:06:30] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:06:30] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:06:30] code 404, message File not found
+::1 - - [06/Jul/2025 15:06:30] "GET /ai-waste-genie-research.png HTTP/1.1" 404 -
+::1 - - [06/Jul/2025 15:07:59] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:07:59] "GET /CAI'25.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:07:59] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:07:59] "GET /chatgptcomparing.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:17] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 15:46:17] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:17] "GET /CAI'25.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:17] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:17] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:17] "GET /chatgptcomparing.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /simple-website.html HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /chatgptcomparing.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 15:46:20] "GET /CAI'25.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:22:19] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:22:19] "GET /carbon-footprint-calculator.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:22:19] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:22:19] "GET /chatgptcomparing.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:22:19] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:22:19] "GET /research-team.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:22:19] "GET /CAI'25.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:23:47] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:23:47] "GET /research-team.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:30:49] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:30:49] "GET /research-team.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:38:23] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:38:23] "GET /CAI'25.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:38:23] "GET /waste-genie-results.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:38:23] code 404, message File not found
+::1 - - [06/Jul/2025 17:38:23] "GET /gaming.png HTTP/1.1" 404 -
+::1 - - [06/Jul/2025 17:38:23] "GET /chatgptcomparing.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:38:23] "GET /research-team.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:38:23] "GET /gaming-pic.png HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:39:22] "GET /simple-website.html HTTP/1.1" 200 -
+::1 - - [06/Jul/2025 17:39:22] "GET /ar-feedback-demo.png HTTP/1.1" 304 -
+::1 - - [06/Jul/2025 17:39:22] "GET /gaming-pic.png HTTP/1.1" 304 -
